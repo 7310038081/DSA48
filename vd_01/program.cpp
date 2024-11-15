@@ -73,7 +73,37 @@
 
 //         product = product*i;
 //     }
-~
+// }
 //     cout<<product;
     
+// }
+
+// program to finc whether the number is prime or not
+// #include<iostream>
+// using namespace std;
+
+// int main(){
+
+//  int n ;
+//  cout<<"Enter the number:";
+//  cin>>n;
+
+//   if(n==1){
+//     cout<<"not prime";
+//   }
+   
+//    if(n==2){
+//    cout<<"prime";
+//    }
+
+//  for(int i = 2; i<n; i++){
+//     if(n%i==0){
+//         cout<<"not prime";
+//         return 0;
+//     }
+//  }
+
+//  cout<<"prime"<<endl;
+//  return 0;
+
 // }
